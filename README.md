@@ -1,6 +1,6 @@
 # interview-scripts
 
-A few polished scripts for postdoc interviews. The code is in Python and uploaded in Jupyter Notebooks for easy visualization. You can download the script or open them in your browser. More info:
+A few polished scripts for postdoc interviews. The code is in Python and uploaded in Jupyter Notebooks for easy visualization. You can download the scripts or open them in your browser. More info:
 
 ## AlexNet_embeddings
 How can we know if perceptual (dis)similarity can reasonably explain a pattern of results? In other words: what categories of images are perceptually distinct from each other, and what can this tell us about the brain? I wrote this script to explore the idea that the pattern of results we saw in our fMRI decoding analysis could be replicated by a computational model mimicking the early layers of the ventral visual stream.
